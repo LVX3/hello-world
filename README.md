@@ -1,2 +1,3 @@
 # hello-world
-This is the first repository I've ever created
+
+Chicago is one of my favorite cities but NY has better pizza.
